@@ -1,0 +1,16 @@
+# Insert your preferred key mappings here.
+# Insert your preferred key mappings here.
+map x restoreTab
+map c Vomnibar.activateInNewTab
+map d removeTab
+map j scrollPageDown
+map k scrollPageUp
+map p goBack
+map n goForward
+map i focusInput
+map l previousTab
+map h previousTab
+map t scrollTop
+map b scrollBottom
+map gi enterInsertMode
+map o Vomnibar.activate
