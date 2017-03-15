@@ -8,9 +8,10 @@ map k scrollPageUp
 map p goBack
 map n goForward
 map i focusInput
-map l previousTab
 map h previousTab
-map t scrollTop
-map b scrollBottom
-map gi enterInsertMode
+map l nextTab
+map t scrollToTop
+map b scrollToBottom
+
 map o Vomnibar.activate
+map z enterInsertMode
