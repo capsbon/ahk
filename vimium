@@ -12,6 +12,6 @@ map h previousTab
 map l nextTab
 map t scrollToTop
 map b scrollToBottom
-
+map f LinkHints.activateModeToOpenInNewTab
 map o Vomnibar.activate
 map z enterInsertMode
